@@ -10,5 +10,5 @@ The list of beam files and the configurations are:
  OVRO-LWA_MROsoil_updatedheight  Same as above, but with new height of the LWA measured from the field.
  OVRO-LWA_MROsoil_pt_norm        LWA antenna, with infinite soil, soil parameters from Spinelli et al., normalized to Stokes I @zenith
 
-Included in this repo are example notebooks to read the beam.s
+Included in this repo are example notebooks to read the beams
 
