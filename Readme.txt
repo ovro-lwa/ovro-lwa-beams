@@ -1,3 +1,8 @@
+The beam files can be found on: /lustre/pipeline/beam-model.
+
+The list of beam files and the configurations are:
+
+
 # File Name 		  	 Simulation Set-up										
  OVRO_LWA-DWBeam                 Dave woody's beam model.
  OVRO_LWA-FEKO                   LWA antenna in free space. No soil modelled. Would consider this an old set up
